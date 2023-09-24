@@ -1,0 +1,12 @@
+[package]
+name = "openmath"
+version = "0.0.0"
+edition = "2021"
+authors = ["Luca Lewin <contact@lucalewin.dev>"]
+description = "openmath standard parser"
+license = "MIT OR Apache-2.0"
+homepage = "https://lucalewin.dev/projects/openmath"
+documentation = "https://lucalewin.dev/docs/openmath"
+repository = "https://github.com/qed-project/openmath"
+
+[dependencies]
